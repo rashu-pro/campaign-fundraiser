@@ -133,6 +133,7 @@ a {
 }
 img{
   position: relative!important;
+  margin-bottom: 0!important;
 }
 
 @media (prefers-color-scheme: dark) {

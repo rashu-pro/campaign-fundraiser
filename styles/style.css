@@ -1008,6 +1008,10 @@
   .fs-6 {
     font-size: 1rem !important;
   }
+
+.fs-7 {
+  font-size: 0.8rem !important;
+}
   
   .fst-italic {
     font-style: italic !important;
@@ -6015,7 +6019,6 @@
   .btn {
     --bs-btn-padding-x: 0.75rem;
     --bs-btn-padding-y: 0.375rem;
-    --bs-btn-font-family: ;
     --bs-btn-font-size: 1rem;
     --bs-btn-font-weight: 400;
     --bs-btn-line-height: 1.5;
@@ -7207,6 +7210,8 @@
     min-height: 100%;
     object-fit: contain;
     max-height: 800px;
+    padding-left: 12px;
+    margin-bottom: -8px;
   }
   .image-holder{
     position: relative;
